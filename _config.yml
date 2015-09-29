@@ -1,0 +1,19 @@
+# Site settings
+title: Jan's bikes
+header-img: img/home-bg.jpg
+email: jan.jansbikes@gmail.com
+description: "DRZ 400 SM and CBR 600 F pc41 owner's site. Sportbike tourism, supermoto gymkhanas and other."
+baseurl: ""
+url: "http://jansbikes.com"
+twitter_username: 
+github_username:  
+facebook_username:  
+enable_rss:
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
